@@ -2,10 +2,10 @@
 
 A PowerShell module for recursively creating Windows Firewall rules to block outbound network access for all executables in a given directory.
 
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/Block-OutboundFW?style=flat-square)](https://github.com/YOUR_USERNAME/Block-OutboundFW/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/Block-OutboundFW?style=flat-square)](https://github.com/YOUR_USERNAME/Block-OutboundFW/issues)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/Block-OutboundFW?style=flat-square)](https://github.com/YOUR_USERNAME/Block-OutboundFW/network/members)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Block-OutboundFW?style=flat-square)](https://github.com/YOUR_USERNAME/Block-OutboundFW/stargazers)
+[![License](https://img.shields.io/github/license/justind-dev/Block-OutboundFW?style=flat-square)](https://github.com/justind-dev/Block-OutboundFW/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/justind-dev/Block-OutboundFW?style=flat-square)](https://github.com/justind-dev/Block-OutboundFW/issues)
+[![Forks](https://img.shields.io/github/forks/justind-dev/Block-OutboundFW?style=flat-square)](https://github.com/justind-dev/Block-OutboundFW/network/members)
+[![Stars](https://img.shields.io/github/stars/justind-dev/Block-OutboundFW?style=flat-square)](https://github.com/justind-dev/Block-OutboundFW/stargazers)
 
 ## What It Does
 
@@ -23,7 +23,7 @@ Scans a directory recursively for executable files (`.exe`, `.com`, `.bat`, `.cm
 
 1. Clone this repository
 ```powershell
-git clone https://github.com/YOUR_USERNAME/Block-OutboundFW.git
+git clone https://github.com/justind-dev/Block-OutboundFW.git
 ```
 
 2. Copy the module to your PowerShell modules directory
