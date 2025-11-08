@@ -14,8 +14,8 @@
     PrivateData = @{
         PSData = @{
             Tags = @('Firewall', 'Security', 'Network', 'Windows', 'Outbound')
-            LicenseUri = ''
-            ProjectUri = ''
+            LicenseUri = 'https://raw.githubusercontent.com/justind-dev/Block-OutboundFW/refs/heads/main/LICENSE'
+            ProjectUri = 'https://github.com/justind-dev/Block-OutboundFW'
             ReleaseNotes = @'
 Version 2.0.0
 - Refactored and cleaned code
